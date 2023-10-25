@@ -3,7 +3,7 @@ header{
     padding: 20px;/*espaço em cima e embaixo do cabeçalho - espaçamento interno*/
 }
 
-caixa{
+.caixa{
     position: relative;/*menu dentro da caixa*/
     width: 940px;/*largura da caixa*/
     margin: 0 auto;
