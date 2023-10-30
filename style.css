@@ -26,4 +26,9 @@ nav a{
     font-weight: bold;/*fonte negrito*/
     font-size: 22px;/*tamanho da fonte*/
     text-decoration: none;/*retirar o sublinhado do texto*/
- }   
+ }  
+ 
+ img{
+    height: 50px;
+    width: 50px;
+ }
